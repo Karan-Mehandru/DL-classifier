@@ -1,0 +1,32 @@
+# load model without output layer
+model = VGG16(include_top=False)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
+# load model and specify a new input shape for images
+new_input = Input(shape=(640, 480, 3))
+model = VGG16(include_top=False, input_tensor=new_input)
